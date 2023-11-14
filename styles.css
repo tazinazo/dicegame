@@ -1,0 +1,83 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  box-shadow:  1px 1px 50px 5px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding-bottom: 50px;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+ }
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 300px;
+  padding-right: 300px;
+ 
+}
+
+.btn-roll{
+  background-color:#9C060C;
+  color: #EEEEEE;
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  padding: 10px 30px ;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.5);
+
+}
+
+.btn-names{
+  background-color:#9C060C;
+  color: #EEEEEE;
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  box-shadow: 0 10px 18px rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+
+}
